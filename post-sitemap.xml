@@ -1,397 +1,397 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/kingrecipe/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://localhost/kingrecipe/</loc>
+		<loc>https://kingrecipe.in/</loc>
 		<lastmod>2021-10-10T13:25:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/how-to-make-dhokla-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/how-to-make-dhokla-in-hindi/</loc>
 		<lastmod>2021-07-31T04:17:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/masala-dosa-recipe-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/masala-dosa-recipe-in-hindi/</loc>
 		<lastmod>2021-07-31T04:19:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/recipe-of-spring-roll-in-hindi-new/</loc>
+		<loc>https://kingrecipe.in/recipe/recipe-of-spring-roll-in-hindi-new/</loc>
 		<lastmod>2021-07-31T04:21:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/recipe-for-kadai-paneer-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/recipe-for-kadai-paneer-in-hindi/</loc>
 		<lastmod>2021-07-31T04:23:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/best-paneer-recipes-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/best-paneer-recipes-in-hindi/</loc>
 		<lastmod>2021-07-31T04:25:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/recipe-for-soya-bean-chilli-soya-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/recipe-for-soya-bean-chilli-soya-in-hindi/</loc>
 		<lastmod>2021-07-31T04:27:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/recipe-for-white-pasta-sauce-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/recipe-for-white-pasta-sauce-in-hindi/</loc>
 		<lastmod>2021-07-31T04:28:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/tasty-recipe-for-sweet-corn-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/tasty-recipe-for-sweet-corn-in-hindi/</loc>
 		<lastmod>2021-07-31T04:29:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/recipe-of-malai-kofta-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/recipe-of-malai-kofta-in-hindi/</loc>
 		<lastmod>2021-07-31T04:30:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/recipe-of-egg-biryani-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/recipe-of-egg-biryani-in-hindi/</loc>
 		<lastmod>2021-07-31T05:24:25+00:00</lastmod>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/07/recipe-of-egg-biryani-in-hindi-step-142.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/07/recipe-of-egg-biryani-in-hindi-step-142.jpg</image:loc>
 			<image:title><![CDATA[recipe-of-egg-biryani-in-hindi]]></image:title>
 			<image:caption><![CDATA[recipe-of-egg-biryani-in-hindi]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/recipe-of-chilli-paneer/</loc>
+		<loc>https://kingrecipe.in/recipe/recipe-of-chilli-paneer/</loc>
 		<lastmod>2021-07-31T05:27:31+00:00</lastmod>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/07/recipe-of-chilli-paneer-in-hindi.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/07/recipe-of-chilli-paneer-in-hindi.jpg</image:loc>
 			<image:title><![CDATA[recipe-of-chilli-paneer-in-hindi]]></image:title>
 			<image:caption><![CDATA[recipe-of-chilli-paneer-in-hindi]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/breakfast-recipe-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/breakfast-recipe-in-hindi/</loc>
 		<lastmod>2021-07-31T14:03:22+00:00</lastmod>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/07/breakfast-recipe-in-hindi.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/07/breakfast-recipe-in-hindi.jpg</image:loc>
 			<image:title><![CDATA[breakfast-recipe-in-hindi]]></image:title>
 			<image:caption><![CDATA[breakfast-recipe-in-hindi]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/veg-momos-recipe-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/veg-momos-recipe-in-hindi/</loc>
 		<lastmod>2021-08-06T14:26:24+00:00</lastmod>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi.jpg</image:loc>
 			<image:title><![CDATA[Veg Momos Recipe in Hindi]]></image:title>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-1-making-dough-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-1-making-dough-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-1-making-dough]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-2-making-dough-ball-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-2-making-dough-ball-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-2-making-dough-ball]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-frying-garlic-and-onion-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-frying-garlic-and-onion-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-frying-garlic-and-onion]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-frying-onion-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-frying-onion-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-frying-onion]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-adding-carrots-and-capsicum-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-adding-carrots-and-capsicum-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-adding-carrots-and-capsicum]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-frying-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-frying-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-frying]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-close-the-lid-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-close-the-lid-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-close-the-lid]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-mix-a-little-bit-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-mix-a-little-bit-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-mix-a-little-bit]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-fill-sabji-in-roti-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-fill-sabji-in-roti-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-fill-sabji-in-roti]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-make-roti-shaped-like-momo-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-make-roti-shaped-like-momo-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-make-roti-shaped-like-momo]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-steam-momo-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-steam-momo-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-steam-momo]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-momo-ready-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-momo-ready-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-momo-ready]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-boil-chutney-ingredients-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-boil-chutney-ingredients-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-boil-chutney-ingredients]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-grind-chutney-ingredients-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-grind-chutney-ingredients-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-grind-chutney-ingredients]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-fry-spices-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-fry-spices-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-fry-spices]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-cook-chutney-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-Momos-Recipe-in-Hindi-cook-chutney-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-Momos-Recipe-in-Hindi-cook-chutney]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/veg-biryani-recipe-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/veg-biryani-recipe-in-hindi/</loc>
 		<lastmod>2021-08-11T13:45:26+00:00</lastmod>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi.jpg</image:loc>
 			<image:title><![CDATA[Veg-biryani-recipe-in-hindi]]></image:title>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-soak-rice-in-water-for-30-mins-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-soak-rice-in-water-for-30-mins-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-soak-rice-in-water-for-30-mins]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-deep-frying-onions-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-deep-frying-onions-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-deep-frying-onions]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-whisk-curd-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-whisk-curd-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-whisk-curd]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-adding-spices-in-curd-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-adding-spices-in-curd-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-adding-spices-in-curd]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-adding-green-leaves-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-adding-green-leaves-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-adding-green-leaves]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-mixing-everything-together-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-mixing-everything-together-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-mixing-everything-together]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-adding-spices-in-water-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-adding-spices-in-water-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-adding-spices-in-water]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-rice-ready-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-rice-ready-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-rice-ready]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-frying-onions-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-frying-onions-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-frying-onions]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-making-gravy-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-making-gravy-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-making-gravy-]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-add-onions-to-rice-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-add-onions-to-rice-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-add-onions-to-rice]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-place-kadahi-above-pan-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Veg-biryani-recipe-in-hindi-place-kadahi-above-pan-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Veg-biryani-recipe-in-hindi-place-kadahi-above-pan]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/recipe-for-poha-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/recipe-for-poha-in-hindi/</loc>
 		<lastmod>2021-08-13T15:35:38+00:00</lastmod>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/recipe-for-poha-in-hindi.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/recipe-for-poha-in-hindi.jpg</image:loc>
 			<image:title><![CDATA[recipe-for-poha-in-hindi]]></image:title>
 			<image:caption><![CDATA[recipe-for-poha-in-hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/recipe-for-poha-in-hindi.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/recipe-for-poha-in-hindi.jpg</image:loc>
 			<image:caption><![CDATA[recipe-for-poha-in-hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-soak-poha-in-water-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-soak-poha-in-water-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[recipe-for-poha-in-hindi-soak-poha-in-water]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-frying-peanuts-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-frying-peanuts-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[recipe-for-poha-in-hindi-frying-peanuts]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-frying-onion-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-frying-onion-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[recipe-for-poha-in-hindi-frying-onion]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-adding-tomato-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-adding-tomato-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[recipe-for-poha-in-hindi-adding-tomato]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-add-water-and-cook-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-add-water-and-cook-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[recipe-for-poha-in-hindi-add-water-and-cook]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-add-peanuts-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/recipe-for-poha-in-hindi-add-peanuts-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[recipe-for-poha-in-hindi-add-peanuts]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/recipe-of-samosa-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/recipe-of-samosa-in-hindi/</loc>
 		<lastmod>2021-08-18T08:12:29+00:00</lastmod>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi.jpg</image:loc>
 			<image:title><![CDATA[Recipe-of-samosa-in-hindi]]></image:title>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-make-batter-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-make-batter-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi-make-batter]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-dough-ready-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-dough-ready-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi-dough-ready]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-add-masala-to-potato-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-add-masala-to-potato-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi-add-masala-to-potato]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-add-peas-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-add-peas-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi-add-peas]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-fry-potatoes-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-fry-potatoes-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi-fry-potatoes]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-roll-and-cut-dough-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-roll-and-cut-dough-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi-roll-and-cut-dough]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-cut-roti-in-half-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-cut-roti-in-half-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi-cut-roti-in-half]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-fill-roti-with-potato-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-fill-roti-with-potato-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi-fill-roti-with-potato]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-samosa-uncooked-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-samosa-uncooked-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi-samosa-uncooked]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-frying-samosa-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-samosa-in-hindi-frying-samosa-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-samosa-in-hindi-frying-samosa]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Video-images-by-1.gif</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Video-images-by-1.gif</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/recipe-of-gulab-jamun-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/recipe-of-gulab-jamun-in-hindi/</loc>
 		<lastmod>2021-08-21T07:56:43+00:00</lastmod>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi.jpg</image:loc>
 			<image:title><![CDATA[Recipe-of-gulab-jamun-in-hindi]]></image:title>
 			<image:caption><![CDATA[Recipe-of-gulab-jamun-in-hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-gulab-jamun-in-hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-add-sugar-in-pan-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-add-sugar-in-pan-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-gulab-jamun-in-hindi-add-sugar-in-pan]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-boil-sugar-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-boil-sugar-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-gulab-jamun-in-hindi-boil-sugar]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-prepare-dough-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-prepare-dough-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-gulab-jamun-in-hindi-prepare-dough]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-make-dough-balls-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-make-dough-balls-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-gulab-jamun-in-hindi-make-dough-balls]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-heat-oil-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-heat-oil-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-gulab-jamun-in-hindi-heat-oil]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-fry-gulab-jamun-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-fry-gulab-jamun-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-gulab-jamun-in-hindi-fry-gulab-jamun]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-take-out-from-oil-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-take-out-from-oil-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-gulab-jamun-in-hindi-take-out-from-oil]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-soak-in-sugar-syrup-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Recipe-of-gulab-jamun-in-hindi-soak-in-sugar-syrup-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Recipe-of-gulab-jamun-in-hindi-soak-in-sugar-syrup]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Video-images-by-2.gif</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Video-images-by-2.gif</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://localhost/kingrecipe/recipe/hakka-noodle-recipe-in-hindi/</loc>
+		<loc>https://kingrecipe.in/recipe/hakka-noodle-recipe-in-hindi/</loc>
 		<lastmod>2021-10-10T13:25:58+00:00</lastmod>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi.jpg</image:loc>
 			<image:title><![CDATA[Hakka noodle recipe in hindi]]></image:title>
 			<image:caption><![CDATA[Hakka noodle recipe in hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Hakka noodle recipe in hindi]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-boil-noodles-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-boil-noodles-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Hakka noodle recipe in hindi boil noodles]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-boil-for-sometime-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-boil-for-sometime-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Hakka noodle recipe in hindi boil for sometime]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-wash-noodles-with-cold-water-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-wash-noodles-with-cold-water-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Hakka noodle recipe in hindi wash noodles with cold water]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-fry-garlic-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-fry-garlic-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Hakka noodle recipe in hindi fry garlic]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-add-vegetables-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-add-vegetables-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Hakka noodle recipe in hindi add vegetables]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-fry-for-sometime-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-fry-for-sometime-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Hakka noodle recipe in hindi fry for sometime]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-fry-for-sometime-more-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-fry-for-sometime-more-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Hakka noodle recipe in hindi fry for sometime more]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-add-spring-onion-1024x576.jpg</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Hakka-noodle-recipe-in-hindi-add-spring-onion-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Hakka noodle recipe in hindi add spring onion]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost/kingrecipe/wp-content/uploads/2021/08/Video-images-by-3.gif</image:loc>
+			<image:loc>https://kingrecipe.in/wp-content/uploads/2021/08/Video-images-by-3.gif</image:loc>
 		</image:image>
 	</url>
 </urlset>
